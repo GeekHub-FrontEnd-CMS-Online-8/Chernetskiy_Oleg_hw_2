@@ -1,10 +1,23 @@
-body {
-    margin-left: 20%; /* Отступ слева */
-    margin-right: 20%; /* Оступ справа */
+h1 {
+    text-align: center; /* Выравнивание по центру */
 }
 h1 + p {
     margin-top: -1em; /* Смещение первого абзаца вверх к заголовку h1 */
     font-size: 120%; /* Размер шрифта в процентах */
+    text-align: center; /* Выравнивание по центру */
+}
+h4 {
+    text-align: center; /* Выравнивание по центру */
+}
+body {
+    margin-left: 20%; /* Отступ слева */
+    margin-right: 20%; /* Оступ справа */
+}
+.t1 {
+    text-align: center; /* Выравнивание по центру */
+}
+.t2 {
+    text-align: right; /* Выравнивание справа */
 }
 .leftimg {
     float: left; /* Выравнивание по левому краю */
